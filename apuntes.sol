@@ -24,6 +24,25 @@ si se usa byte se entiende como bytes1
 address <nombre_variable>;
 variable es la direccion de la cuenta en ethereum
 
+//enumeraciones
+
+enum <nombre_enummeracipon> { valores_enumeracion } 
+
+********************************************************
+las variables enum NO terminan con un punto y coma (;)
+********************************************************
+
+hay dos maneras para modificar la enumeracion
+
+1. Especificando la opcion de la numeracion
+<nombre_variable> = <nombre_enumeracion>.<valor_enumeracion>;
+
+2. con el indice
+<nombre_variable> = <nombre_enumeracion>(<posicion>);
+
+// tiempo
+
+<x> seconds ,  minutes, hours, days, weeks, years
 
 
 
