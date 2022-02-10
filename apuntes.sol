@@ -44,6 +44,11 @@ hay dos maneras para modificar la enumeracion
 
 <x> seconds ,  minutes, hours, days, weeks, years
 
+********************************************************
+CASTEO
+********************************************************
+
+//el casteo consiste en cambiar entre tipos de variables
 
 
 
